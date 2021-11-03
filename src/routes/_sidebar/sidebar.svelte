@@ -12,6 +12,9 @@ import Spinner from '../_components/spinner.svelte'
     <ul>
       <li>Home</li>
       <li>About</li>
+      <li>
+        <a href="https://github.com/WaltzingPenguin/social-suspense-swr-demo">View Repo</a>
+      </li>
     </ul>
   </section>
 

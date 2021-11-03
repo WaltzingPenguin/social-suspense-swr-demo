@@ -6,3 +6,11 @@ body {
   margin: 0;
   overflow-y: scroll;
 }
+
+a {
+  color: #3182ce;
+  text-decoration: none;
+}
+a:hover {
+  color: #63b3ed;
+}

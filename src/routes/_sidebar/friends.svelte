@@ -23,17 +23,9 @@ $: friends = getFriends()
 a {
   align-items: center;
   background: none;
-  border: none;
-  color: #3182ce;
-  cursor: pointer;
   display: flex;
-  font: inherit;
   max-width: 100%;
   padding: 0.2em 0;
-  text-decoration: none;
-}
-a:hover {
-  color: #63b3ed;
 }
 a.active {
   font-weight: 600;
